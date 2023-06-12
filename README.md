@@ -1,4 +1,4 @@
-# kotlin-mvvm-dagger-stateflow
+# kotlin-mvvm-hilt-stateflow
 Sample showing *Kotlin MVVM using Hilt, Coroutines, StateFlow, Compose, Retrofit, Okhttp, Glide* Implementation
 <br />
 <br />
